@@ -1,4 +1,5 @@
 # demo
 this is my first git project.
 <br>
-author : syed farhaan.
+author : syed farhaan(azher)
+
